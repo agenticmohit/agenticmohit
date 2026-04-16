@@ -20,7 +20,6 @@ I combine 6 years of design experience with self-taught AI engineering — I bui
 | Project | What it does | Stack |
 |---|---|---|
 | [Reelioo](https://reelioo.app) | Crypto intelligence agent — Mass, Velocity, Friction signals | LangChain · OpenAI · Django · Binance API |
-| [DigitalDarling](https://digitaldarling.app) | AI caption studio — GPT-4o Vision reads images, writes captions | LangChain · GPT-4o Vision · Django |
 
 ---
 
